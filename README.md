@@ -1,6 +1,11 @@
 # covid19_memo
 コロナウィルスに関する可視化情報等の個人的なまとめ
 
+このリポジトリはGitHub Pagesを用いることで、以下アドレスでWebサイトとして公開されています。
+
+https://karaage0703.github.io/covid19_memo/
+
+
 ## 可視化Map
 [都内の最新感染動向](https://stopcovid19.metro.tokyo.lg.jp/)
 
