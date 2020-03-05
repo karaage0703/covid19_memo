@@ -27,9 +27,11 @@ https://github.com/karaage0703/covid19_memo
 ### World
 [新型コロナ感染世界マップ](https://vdata.nikkei.com/newsgraphics/coronavirus-world-map/)
 
-[COVID-19 Coronavirus Map(World Map)](https://covid19.health/)
+[COVID-19 Coronavirus Map](https://covid19.health/)
 
 [Google Map](https://www.google.com/maps/d/u/0/viewer?mid=1a04iBi41DznkMaQRnICO40ktROfnMfMx&ll=37.45239782566561%2C137.6798301595186&z=6)
+
+[Coronavirus Tracker](https://shiny.john-coene.com/coronavirus/)
 
 ## Kaggleでのデータ分析結果
 [COVID-19 - Analysis, Viz, Prediction & Comparisons](https://www.kaggle.com/imdevskp/covid-19-analysis-viz-prediction-comparisons)
@@ -57,6 +59,8 @@ https://github.com/karaage0703/covid19_memo
 [stevenliuyi/covid19](https://github.com/stevenliuyi/covid19)
 
 [code4aichi/corona](https://github.com/code4aichi/corona)
+
+[JohnCoene/coronavirus](https://github.com/JohnCoene/coronavirus)
 
 ## データ
 [COVID19Japan.com Data(Spredsheet)](https://docs.google.com/spreadsheets/d/1jfB4muWkzKTR0daklmf8D5F0Uf_IYAgcx_-Ij9McClQ/edit#gid=0)
