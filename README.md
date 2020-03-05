@@ -56,6 +56,8 @@ https://github.com/karaage0703/covid19_memo
 
 [stevenliuyi/covid19](https://github.com/stevenliuyi/covid19)
 
+[code4aichi/corona](https://github.com/code4aichi/corona)
+
 ## データ
 [COVID19Japan.com Data(Spredsheet)](https://docs.google.com/spreadsheets/d/1jfB4muWkzKTR0daklmf8D5F0Uf_IYAgcx_-Ij9McClQ/edit#gid=0)
 
