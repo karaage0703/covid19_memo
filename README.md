@@ -5,6 +5,11 @@
 
 https://karaage0703.github.io/covid19_memo/
 
+あくまで個人的なまとめで、内容に対して保証などするものではありません。
+
+以下GitHubリポジトリの内容と連動しています。PR歓迎します。
+
+https://github.com/karaage0703/covid19_memo
 
 ## 可視化Map
 
@@ -33,6 +38,15 @@ https://karaage0703.github.io/covid19_memo/
 
 [Novel Coronavirus: EDA & Forecast Number of Cases](https://www.kaggle.com/khoongweihao/novel-coronavirus-eda-forecast-number-of-cases)
 
+## Tableauでの可視化結果
+[CoronaVirusDashboard](https://public.tableau.com/profile/travis.winn#!/vizhome/CoronaVirusVisualizationDashboardUpdated3_27_2020/CoronaVirusDashboard2_11_2020)
+
+[2020 Corona Virus in the United States](https://public.tableau.com/profile/kim.allen#!/vizhome/2020CoronaVirusintheUnitedStates/USCoronaDashboard)
+
+[CORONA19Map](https://public.tableau.com/profile/seungilkang#!/vizhome/CORONA19_Map/CORONA19Map)
+
+[tableau search results](https://public.tableau.com/en-us/search/all/%23corona)
+
 ## GitHub リポジトリ
 [tokyo-metropolitan-gov/covid19](https://github.com/tokyo-metropolitan-gov/covid19)
 
@@ -50,8 +64,3 @@ https://karaage0703.github.io/covid19_memo/
 [Novel Corona Virus 2019 Dataset(kaggle)](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
 
 [COVID-19 Complete Dataset (Updated every 24hrs)(kaggle)](https://www.kaggle.com/imdevskp/corona-virus-report)
-
-[public tableau](https://public.tableau.com/en-us/search/all/%23corona)
-
-# 注意
-あくまで個人的なまとめで、内容に対して保証などするものではありません。
