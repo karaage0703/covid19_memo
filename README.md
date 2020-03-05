@@ -10,6 +10,8 @@
 
 [都道府県別新型コロナウイルス感染者数マップ](https://jagjapan.maps.arcgis.com/apps/opsdashboard/index.html#/259ce3e3e2bf4c77876d4ecde6ea2564)
 
+[新型コロナウイルス 日本国内の最新感染状況マップ](https://newsdigest.jp/pages/coronavirus/)
+
 [COVID-19 Coronavirus Map(World Map)](https://covid19.health/)
 
 [Google Map](https://www.google.com/maps/d/u/0/viewer?mid=1a04iBi41DznkMaQRnICO40ktROfnMfMx&ll=37.45239782566561%2C137.6798301595186&z=6)
