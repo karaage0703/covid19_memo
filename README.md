@@ -12,7 +12,7 @@ https://karaage0703.github.io/covid19_memo/
 https://github.com/karaage0703/covid19_memo
 
 ## 可視化情報
-### Google Colabratoryでの可視化
+### Google Colaboratoryでの可視化
 　Google Colaboratoryでデータを可視化するためのノートブックを作成しました。内容は正確性を保証するものではないですが、ご自由に利用下さい。
 
 [covid19_visualization.ipynb](https://github.com/karaage0703/covid19_memo/blob/master/covid19_visualization.ipynb)
