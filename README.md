@@ -11,12 +11,12 @@ https://karaage0703.github.io/covid19_memo/
 
 https://github.com/karaage0703/covid19_memo
 
-## 可視化Map
+## 可視化情報
 
 ### Japan
-[都内の最新感染動向](https://stopcovid19.metro.tokyo.lg.jp/)
+[都内の最新感染動向](https://stopcovid19.metro.tokyo.lg.jp/)[(GitHub:tokyo-metropolitan-gov/covid19)](https://github.com/tokyo-metropolitan-gov/covid19)
 
-[新型コロナウイルス国内感染の状況](https://toyokeizai.net/sp/visual/tko/covid19/)
+[新型コロナウイルス国内感染の状況](https://toyokeizai.net/sp/visual/tko/covid19/)[(GitHub:kaz-ogiwara/covid19)](https://github.com/kaz-ogiwara/covid19)
 
 [新型コロナウイルスの事例マップ](https://www.coromap.info/)
 
@@ -24,14 +24,22 @@ https://github.com/karaage0703/covid19_memo
 
 [新型コロナウイルス 日本国内の最新感染状況マップ](https://newsdigest.jp/pages/coronavirus/)
 
+[特設サイト コロナウイルス(NHK)](https://www3.nhk.or.jp/news/special/coronavirus/)
+
+[東京都 新型コロナウイルスオープンデータサマリー](https://code4sabae.github.io/covid19/tokyo.html)[(GitHub:code4sabae/covid19)](https://github.com/code4sabae/covid19)
+
+[Japan COVID-19 Coronavirus Tracker](https://covid19japan.com/)[(GitHub:reustle/covid19japan)](https://github.com/reustle/covid19japan)
+
+
 ### World
 [新型コロナ感染世界マップ](https://vdata.nikkei.com/newsgraphics/coronavirus-world-map/)
 
-[COVID-19 Coronavirus Map](https://covid19.health/)
+[COVID-19 Coronavirus Map](https://covid19.health/)[(GitHub:stevenliuyi/covid19)](https://github.com/stevenliuyi/covid19)
 
 [Google Map](https://www.google.com/maps/d/u/0/viewer?mid=1a04iBi41DznkMaQRnICO40ktROfnMfMx&ll=37.45239782566561%2C137.6798301595186&z=6)
 
-[Coronavirus Tracker](https://shiny.john-coene.com/coronavirus/)
+[Coronavirus Tracker](https://shiny.john-coene.com/coronavirus/)[(GitHub:JohnCoene/coronavirus)](https://github.com/JohnCoene/coronavirus)
+
 
 ## Kaggleでのデータ分析結果
 [COVID-19 - Analysis, Viz, Prediction & Comparisons](https://www.kaggle.com/imdevskp/covid-19-analysis-viz-prediction-comparisons)
@@ -50,17 +58,9 @@ https://github.com/karaage0703/covid19_memo
 [tableau search results](https://public.tableau.com/en-us/search/all/%23corona)
 
 ## GitHub リポジトリ
-[tokyo-metropolitan-gov/covid19](https://github.com/tokyo-metropolitan-gov/covid19)
-
-[kaz-ogiwara/covid19](https://github.com/kaz-ogiwara/covid19)
-
-[reustle/covid19japan](https://github.com/reustle/covid19japan)
-
-[stevenliuyi/covid19](https://github.com/stevenliuyi/covid19)
-
 [code4aichi/corona](https://github.com/code4aichi/corona)
 
-[JohnCoene/coronavirus](https://github.com/JohnCoene/coronavirus)
+
 
 ## データ
 [COVID19Japan.com Data(Spredsheet)](https://docs.google.com/spreadsheets/d/1jfB4muWkzKTR0daklmf8D5F0Uf_IYAgcx_-Ij9McClQ/edit#gid=0)
