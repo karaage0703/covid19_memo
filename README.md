@@ -23,8 +23,15 @@ https://github.com/karaage0703/covid19_memo
 
 
 ### Japan
+#### 特定地域
 [都内の最新感染動向](https://stopcovid19.metro.tokyo.lg.jp/)[(GitHub:tokyo-metropolitan-gov/covid19)](https://github.com/tokyo-metropolitan-gov/covid19)
 
+[愛知新型コロナウイルス感染情報](https://code4aichi.github.io/corona/)[(GitHub:code4aichi/corona)](https://github.com/code4aichi/corona)
+
+[東京都 新型コロナウイルスオープンデータサマリー](https://code4sabae.github.io/covid19/tokyo.html)[(GitHub:code4sabae/covid19)](https://github.com/code4sabae/covid19)
+
+
+#### 国内全体
 [新型コロナウイルス国内感染の状況](https://toyokeizai.net/sp/visual/tko/covid19/)[(GitHub:kaz-ogiwara/covid19)](https://github.com/kaz-ogiwara/covid19)
 
 [新型コロナウイルスの事例マップ](https://www.coromap.info/)
@@ -35,10 +42,7 @@ https://github.com/karaage0703/covid19_memo
 
 [特設サイト コロナウイルス(NHK)](https://www3.nhk.or.jp/news/special/coronavirus/)
 
-[東京都 新型コロナウイルスオープンデータサマリー](https://code4sabae.github.io/covid19/tokyo.html)[(GitHub:code4sabae/covid19)](https://github.com/code4sabae/covid19)
-
 [Japan COVID-19 Coronavirus Tracker](https://covid19japan.com/)[(GitHub:reustle/covid19japan)](https://github.com/reustle/covid19japan)
-
 
 ### World
 [新型コロナ感染世界マップ](https://vdata.nikkei.com/newsgraphics/coronavirus-world-map/)
@@ -66,12 +70,8 @@ https://github.com/karaage0703/covid19_memo
 
 [tableau search results](https://public.tableau.com/en-us/search/all/%23corona)
 
-## GitHub リポジトリ
-[code4aichi/corona](https://github.com/code4aichi/corona)
 
-
-
-## データ
+## オープンデータ
 [COVID19Japan.com Data(Spredsheet)](https://docs.google.com/spreadsheets/d/1jfB4muWkzKTR0daklmf8D5F0Uf_IYAgcx_-Ij9McClQ/edit#gid=0)
 
 [東洋経済 csvデータ](https://toyokeizai.net/sp/visual/tko/covid19/csv/data.csv)
