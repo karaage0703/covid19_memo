@@ -12,6 +12,15 @@ https://karaage0703.github.io/covid19_memo/
 https://github.com/karaage0703/covid19_memo
 
 ## 可視化情報
+### Google Colabratoryでの可視化
+　Google Colaboratoryでデータを可視化するためのノートブックを作成しました。内容は正確性を保証するものではないですが、ご自由に利用下さい。
+
+[covid19_visualization.ipynb](https://github.com/karaage0703/covid19_memo/blob/master/covid19_visualization.ipynb)
+
+　データは、以下のSpredsheetを使用しています。
+ 
+[COVID19Japan.com Data(Spredsheet)](https://docs.google.com/spreadsheets/d/1jfB4muWkzKTR0daklmf8D5F0Uf_IYAgcx_-Ij9McClQ/edit#gid=0)
+
 
 ### Japan
 [都内の最新感染動向](https://stopcovid19.metro.tokyo.lg.jp/)[(GitHub:tokyo-metropolitan-gov/covid19)](https://github.com/tokyo-metropolitan-gov/covid19)
