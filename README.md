@@ -44,6 +44,8 @@ https://github.com/karaage0703/covid19_memo
 
 [Japan COVID-19 Coronavirus Tracker](https://covid19japan.com/)[(GitHub:reustle/covid19japan)](https://github.com/reustle/covid19japan)
 
+[新型コロナウィルス 国内感染状況](https://chomoku.herokuapp.com/covid-19)[(GitHub:mazarimono/chomoku)](https://github.com/mazarimono/chomoku)
+
 ### World
 [新型コロナ感染世界マップ](https://vdata.nikkei.com/newsgraphics/coronavirus-world-map/)
 
