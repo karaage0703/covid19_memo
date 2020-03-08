@@ -55,6 +55,8 @@ https://github.com/karaage0703/covid19_memo
 
 [Coronavirus Tracker](https://shiny.john-coene.com/coronavirus/)[(GitHub:JohnCoene/coronavirus)](https://github.com/JohnCoene/coronavirus)
 
+[Coronavirus Map: Tracking the Spread of the Outbreak(New York Times)](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html)
+
 
 ## Kaggleでのデータ分析結果
 [COVID-19 - Analysis, Viz, Prediction & Comparisons](https://www.kaggle.com/imdevskp/covid-19-analysis-viz-prediction-comparisons)
