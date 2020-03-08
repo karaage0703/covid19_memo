@@ -83,6 +83,7 @@ https://github.com/karaage0703/covid19_memo
 [COVID-19 Complete Dataset (Updated every 24hrs)(kaggle)](https://www.kaggle.com/imdevskp/corona-virus-report)
 
 ## COVID-19で外に出れない人向けの優良なサービスまとめ
-[GitHub:tomo-makes/overcome-covid-19-jp](https://github.com/tomo-makes/overcome-covid-19-jp)
+[COVID-19に負けない! 配信、支援サービスリスト](https://tomo-makes.github.io/overcome-covid-19-jp/)
+[(GitHub:tomo-makes/overcome-covid-19-jp)](https://github.com/tomo-makes/overcome-covid-19-jp)
 
 [VS COVID-19 企業による支援リスト](https://codeforjapan.github.io/supportmenu-vs-covid19/)[(GitHub:codeforjapan/supportmenu-vs-covid19)](https://github.com/codeforjapan/supportmenu-vs-covid19)
