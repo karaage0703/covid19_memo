@@ -40,8 +40,8 @@ https://github.com/karaage0703/covid19_memo
 [新型コロナウイルスの事例マップ](https://www.coromap.info/)  
 事例ごとに日本地図にマッピングされている
 
-[都道府県別新型コロナウイルス感染者数マップ](https://jagjapan.maps.arcgis.com/apps/opsdashboard/index.html#/259ce3e3e2bf4c77876d4ecde6ea2564)  
-国内のデータを可視化
+[都道府県別新型コロナウイルス感染者数マップ](https://gis.jag-japan.com/covid19jp/)  
+ジャッグジャパン株式会社提供。国内のデータを可視化
 
 [新型コロナウイルス 日本国内の最新感染状況マップ](https://newsdigest.jp/pages/coronavirus/)  
 国内のデータを可視化
@@ -76,6 +76,9 @@ New York Times発信。日本の感染者数はクルーズ船が含まれてい
 
 [新型コロナウイルスの国別感染者数（中国以外）](https://public.flourish.studio/visualisation/1438279/)  
 時系列でアニメ的に感染状況を表示
+
+[Coronavirus COVID-19 Global Cases by Johns Hopkins CSSE](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)  
+ジョン・ホプキンス大学発信。情報のアップデートが速い
 
 ## Kaggleでのデータ分析結果
 　Kaggleでデータ分析をしている例。Pythonで分析・可視化する際の参考
