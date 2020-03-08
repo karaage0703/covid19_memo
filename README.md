@@ -57,6 +57,8 @@ https://github.com/karaage0703/covid19_memo
 
 [Coronavirus Map: Tracking the Spread of the Outbreak(New York Times)](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html)
 
+[COVID-19 CORONAVIRUS OUTBREAK](https://www.worldometers.info/coronavirus/)
+
 
 ## Kaggleでのデータ分析結果
 [COVID-19 - Analysis, Viz, Prediction & Comparisons](https://www.kaggle.com/imdevskp/covid-19-analysis-viz-prediction-comparisons)
@@ -84,7 +86,7 @@ https://github.com/karaage0703/covid19_memo
 
 [COVID-19 Complete Dataset (Updated every 24hrs)(kaggle)](https://www.kaggle.com/imdevskp/corona-virus-report)
 
-## COVID-19で外に出れない人向けの優良なサービスまとめ
+## COVID-19対策として提供されている優良サービスまとめ
 [COVID-19に負けない! 配信、支援サービスリスト](https://tomo-makes.github.io/overcome-covid-19-jp/)
 [(GitHub:tomo-makes/overcome-covid-19-jp)](https://github.com/tomo-makes/overcome-covid-19-jp)
 
