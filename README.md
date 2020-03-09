@@ -33,9 +33,12 @@ https://github.com/karaage0703/covid19_memo
 [東京都 新型コロナウイルスオープンデータサマリー](https://code4sabae.github.io/covid19/tokyo.html)[(GitHub:code4sabae/covid19)](https://github.com/code4sabae/covid19)  
 東京都の情報を活用して、情報可視化
 
+[道内の最新感染動向](https://stopcovid19.hokkaido.dev/)[(GitHub:codeforsapporo/covid19)](https://github.com/codeforsapporo/covid19)  
+東京都のGitHubリポジトリをforkして作られた北海道のサイト
+
 #### 国内全体
 [新型コロナウイルス国内感染の状況](https://toyokeizai.net/sp/visual/tko/covid19/)[(GitHub:kaz-ogiwara/covid19)](https://github.com/kaz-ogiwara/covid19)  
-東洋経済発信。みやすく国内のデータが一目で把握できる。
+東洋経済発信。みやすく国内のデータが一目で把握できる
 
 [新型コロナウイルスの事例マップ](https://www.coromap.info/)  
 事例ごとに日本地図にマッピングされている
