@@ -30,11 +30,17 @@ https://github.com/karaage0703/covid19_memo
 [愛知新型コロナウイルス感染情報](https://code4aichi.github.io/corona/)[(GitHub:code4aichi/corona)](https://github.com/code4aichi/corona)  
 [Code for AICHI](https://www.code4aichi.org/)発信。愛知県での感染状況に加え、感染Mapや人物相関、予防関係のリンクと情報がまとまっている。こちらも継続的にアップデートされている。
 
-[東京都 新型コロナウイルスオープンデータサマリー](https://code4sabae.github.io/covid19/tokyo.html)[(GitHub:code4sabae/covid19)](https://github.com/code4sabae/covid19)  
-東京都の情報を活用して、情報可視化
+[愛知県内の最新感染動向](https://stopcovid19.code4.nagoya/)[(GitHub:code4nagoya/covid19)](https://github.com/code4nagoya/covid19)  
+[Code for Nagoya](https://code4.nagoya/)発信。東京都のGitHubリポジトリをforkして作られた愛知県のサイト。
 
-[道内の最新感染動向](https://stopcovid19.hokkaido.dev/)[(GitHub:codeforsapporo/covid19)](https://github.com/codeforsapporo/covid19)  
-東京都のGitHubリポジトリをforkして作られた北海道のサイト
+[東京都 新型コロナウイルスオープンデータサマリー](https://code4sabae.github.io/covid19/tokyo.html)[(GitHub:code4sabae/covid19)](https://github.com/code4sabae/covid19)  
+Code for Sabae発信。東京都の情報を活用して、情報可視化
+
+[北海道内の最新感染動向](https://stopcovid19.hokkaido.dev/)[(GitHub:codeforsapporo/covid19)](https://github.com/codeforsapporo/covid19)  
+[Code for Sapporo](https://www.codeforsapporo.org/)発信。東京都のGitHubリポジトリをforkして作られた北海道のサイト
+
+[神奈川県内の最新感染動向](https://www.pref.kanagawa.jp/osirase/1369/)  
+東京都のGitHubリポジトリをベースに作られた神奈川県のサイト。GitHubでの公開はしていない模様
 
 #### 国内全体
 [新型コロナウイルス国内感染の状況](https://toyokeizai.net/sp/visual/tko/covid19/)[(GitHub:kaz-ogiwara/covid19)](https://github.com/kaz-ogiwara/covid19)  
@@ -53,10 +59,13 @@ https://github.com/karaage0703/covid19_memo
 NHK発信。国内のデータを可視化
 
 [Japan COVID-19 Coronavirus Tracker](https://covid19japan.com/)[(GitHub:reustle/covid19japan)](https://github.com/reustle/covid19japan)  
-国内のデータを可視化
+個人の発信。国内のデータを可視化
 
 [新型コロナウィルス 国内感染状況](https://chomoku.herokuapp.com/covid-19)[(GitHub:mazarimono/chomoku)](https://github.com/mazarimono/chomoku)  
-国内のデータを可視化。ネットワーク図で人同士の繋がりがみられるのが特徴。技術的な内容は[Qiita記事](https://qiita.com/OgawaHideyuki/items/204a2bcff6a3022ffc50)参照
+個人の発信。国内のデータを可視化。ネットワーク図で人同士の繋がりがみられるのが特徴。技術的な内容は[Qiita記事](https://qiita.com/OgawaHideyuki/items/204a2bcff6a3022ffc50)参照
+
+[新型コロナウイルス感染速報](https://covid-2019.live)[(GitHub:swsoyee/2019-ncov-japan)](https://github.com/swsoyee/2019-ncov-japan)  
+個人の発信。厚生労働省の情報をもとに可視化。情報量多くみやすい。
 
 ### World
 [新型コロナ感染世界マップ](https://vdata.nikkei.com/newsgraphics/coronavirus-world-map/)  
@@ -82,6 +91,10 @@ New York Times発信。日本の感染者数はクルーズ船が含まれてい
 
 [Coronavirus COVID-19 Global Cases by Johns Hopkins CSSE](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)  
 ジョン・ホプキンス大学発信。情報のアップデートが速い
+
+[Databrew's COVID-19 data explorer](https://datacat.cc/covid19/)
+データコンサルタントのdatabrew発信。新型コロナウイルスの流行の勢いを国別で可視化・比較できる。詳細は、[Gigazineの記事](https://gigazine.net/news/20200312-databrew-covid19-data-explorer/)参照
+
 
 ## Kaggleでのデータ分析結果
 　Kaggleでデータ分析をしている例。Pythonで分析・可視化する際の参考
@@ -122,3 +135,9 @@ New York Times発信。日本の感染者数はクルーズ船が含まれてい
 
 [VS COVID-19 企業による支援リスト](https://codeforjapan.github.io/supportmenu-vs-covid19/)[(GitHub:codeforjapan/supportmenu-vs-covid19)](https://github.com/codeforjapan/supportmenu-vs-covid19)  
 企業がCOVID-19対策として、無料で配信しているサービスのまとめ
+
+[VS COVID-19 #民間支援情報ナビ For 静岡県版](https://vs-covid19-shizuoka.netlify.com)[(GitHub:hrsano645/vs-covid19)](https://github.com/hrsano645/vs-covid19)
+
+## その他
+[東京都 新型コロナウイルス対策サイトへの貢献方法を解説](https://qiita.com/FPC_COMMUNITY/items/b9cc072813dc2231b2b2)  
+GitHubへのPRの具体的な手順
