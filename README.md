@@ -27,11 +27,11 @@ https://github.com/karaage0703/covid19_memo
 [都内の最新感染動向](https://stopcovid19.metro.tokyo.lg.jp/)[(GitHub:tokyo-metropolitan-gov/covid19)](https://github.com/tokyo-metropolitan-gov/covid19)  
 東京都発信。GitHubでの開発が活発
 
-[愛知新型コロナウイルス感染情報](https://code4aichi.github.io/corona/)[(GitHub:code4aichi/corona)](https://github.com/code4aichi/corona)  
-[Code for AICHI](https://www.code4aichi.org/)発信。愛知県での感染状況に加え、感染Mapや人物相関、予防関係のリンクと情報がまとまっている。こちらも継続的にアップデートされている。
-
 [愛知県内の最新感染動向](https://stopcovid19.code4.nagoya/)[(GitHub:code4nagoya/covid19)](https://github.com/code4nagoya/covid19)  
 [Code for Nagoya](https://code4.nagoya/)発信。東京都のGitHubリポジトリをforkして作られた愛知県のサイト。
+
+[愛知新型コロナウイルス感染情報（閉鎖）](https://code4aichi.github.io/corona/)[(GitHub:code4aichi/corona)](https://github.com/code4aichi/corona)  
+[Code for AICHI](https://www.code4aichi.org/)発信。愛知県での感染状況に加え、感染Mapや人物相関、予防関係のリンクと情報がまとまっていたが、閉鎖し愛知県の情報はCode for Nagoyaの[愛知県内の最新感染動向](https://stopcovid19.code4.nagoya/に一本化。
 
 [東京都 新型コロナウイルスオープンデータサマリー](https://code4sabae.github.io/covid19/tokyo.html)[(GitHub:code4sabae/covid19)](https://github.com/code4sabae/covid19)  
 Code for Sabae発信。東京都の情報を活用して、情報可視化
