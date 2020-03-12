@@ -12,16 +12,6 @@ https://karaage0703.github.io/covid19_memo/
 https://github.com/karaage0703/covid19_memo
 
 ## 可視化情報
-### Google Colaboratoryでの可視化
-　Google Colaboratoryでデータを可視化するためのノートブックを作成しました。内容は正確性を保証するものではないですが、ご自由に利用下さい。
-
-[covid19_visualization.ipynb](https://github.com/karaage0703/covid19_memo/blob/master/covid19_visualization.ipynb)
-
-　データは、以下のSpredsheetを使用しています。
- 
-[COVID19Japan.com Data(Spredsheet)](https://docs.google.com/spreadsheets/d/1jfB4muWkzKTR0daklmf8D5F0Uf_IYAgcx_-Ij9McClQ/edit#gid=0)
-
-
 ### Japan
 #### 特定地域
 [都内の最新感染動向](https://stopcovid19.metro.tokyo.lg.jp/)[(GitHub:tokyo-metropolitan-gov/covid19)](https://github.com/tokyo-metropolitan-gov/covid19)  
@@ -95,6 +85,14 @@ New York Times発信。日本の感染者数はクルーズ船が含まれてい
 [Databrew's COVID-19 data explorer](https://datacat.cc/covid19/)
 データコンサルタントのdatabrew発信。新型コロナウイルスの流行の勢いを国別で可視化・比較できる。詳細は、[Gigazineの記事](https://gigazine.net/news/20200312-databrew-covid19-data-explorer/)参照
 
+## Google Colaboratoryでの可視化
+　個人的に、Google Colaboratoryでデータを可視化するためのノートブックを作成しました。内容は正確性を保証するものではないですが、ご自由に利用下さい。
+
+[covid19_visualization.ipynb](https://github.com/karaage0703/covid19_memo/blob/master/covid19_visualization.ipynb)
+
+　データは、以下のSpredsheetを使用しています。
+ 
+[COVID19Japan.com Data(Spredsheet)](https://docs.google.com/spreadsheets/d/1jfB4muWkzKTR0daklmf8D5F0Uf_IYAgcx_-Ij9McClQ/edit#gid=0)
 
 ## Kaggleでのデータ分析結果
 　Kaggleでデータ分析をしている例。Pythonで分析・可視化する際の参考
