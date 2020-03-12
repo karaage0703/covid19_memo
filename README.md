@@ -129,12 +129,13 @@ New York Times発信。日本の感染者数はクルーズ船が含まれてい
 ## COVID-19対策として提供されている優良サービスまとめ
 [COVID-19に負けない! 配信、支援サービスリスト](https://tomo-makes.github.io/overcome-covid-19-jp/)
 [(GitHub:tomo-makes/overcome-covid-19-jp)](https://github.com/tomo-makes/overcome-covid-19-jp)  
-企業がCOVID-19対策として、無料で配信しているサービスのまとめ
+個人の発信。企業がCOVID-19対策として、無料で配信しているサービスのまとめ
 
 [VS COVID-19 企業による支援リスト](https://codeforjapan.github.io/supportmenu-vs-covid19/)[(GitHub:codeforjapan/supportmenu-vs-covid19)](https://github.com/codeforjapan/supportmenu-vs-covid19)  
-企業がCOVID-19対策として、無料で配信しているサービスのまとめ
+[Code for Japan](https://www.code4japan.org/)発信。企業がCOVID-19対策として、無料で配信しているサービスのまとめ
 
-[VS COVID-19 #民間支援情報ナビ For 静岡県版](https://vs-covid19-shizuoka.netlify.com)[(GitHub:hrsano645/vs-covid19)](https://github.com/hrsano645/vs-covid19)
+[VS COVID-19 #民間支援情報ナビ For 静岡県版](https://vs-covid19-shizuoka.netlify.com)[(GitHub:hrsano645/vs-covid19)](https://github.com/hrsano645/vs-covid19)  
+個人の発信。Code for JapanのVS COVID-19リポジトリをforkして静岡県版を作成
 
 ## その他
 [東京都 新型コロナウイルス対策サイトへの貢献方法を解説](https://qiita.com/FPC_COMMUNITY/items/b9cc072813dc2231b2b2)  
