@@ -82,7 +82,7 @@ New York Times発信。日本の感染者数はクルーズ船が含まれてい
 [Coronavirus COVID-19 Global Cases by Johns Hopkins CSSE](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)  
 ジョン・ホプキンス大学発信。情報のアップデートが速い
 
-[Databrew's COVID-19 data explorer](https://datacat.cc/covid19/)
+[Databrew's COVID-19 data explorer](https://datacat.cc/covid19/)  
 データコンサルタントのdatabrew発信。新型コロナウイルスの流行の勢いを国別で可視化・比較できる。詳細は、[Gigazineの記事](https://gigazine.net/news/20200312-databrew-covid19-data-explorer/)参照
 
 ## Google Colaboratoryでの可視化
