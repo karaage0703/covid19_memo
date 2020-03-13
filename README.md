@@ -29,6 +29,9 @@ https://github.com/karaage0703/covid19_memo
 [神奈川県内の最新感染動向](https://www.pref.kanagawa.jp/osirase/1369/)  
 東京都のGitHubリポジトリをベースに作られた神奈川県のサイト。GitHubでの公開はしていない模様
 
+[大阪府内の最新感染動向](https://osaka-prefecture.netlify.com/)
+個人発信。東京都のGitHubリポジトリをベースに作られているよう
+
 #### 国内全体
 [新型コロナウイルス国内感染の状況](https://toyokeizai.net/sp/visual/tko/covid19/)[(GitHub:kaz-ogiwara/covid19)](https://github.com/kaz-ogiwara/covid19)  
 東洋経済発信。みやすく国内のデータが一目で把握できる
