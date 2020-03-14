@@ -97,6 +97,11 @@ New York Times発信。日本の感染者数はクルーズ船が含まれてい
  
 [COVID19Japan.com Data(Spredsheet)](https://docs.google.com/spreadsheets/d/1jfB4muWkzKTR0daklmf8D5F0Uf_IYAgcx_-Ij9McClQ/edit#gid=0)
 
+
+　その他、以下のJupyterノートブックの分析も丁寧でした。
+ 
+[twiecki/covid19](https://github.com/twiecki/covid19)
+
 ## Kaggleでのデータ分析結果
 　Kaggleでデータ分析をしている例。Pythonで分析・可視化する際の参考
 
