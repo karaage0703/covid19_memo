@@ -29,7 +29,7 @@ https://github.com/karaage0703/covid19_memo
 [神奈川県内の最新感染動向](https://www.pref.kanagawa.jp/osirase/1369/)  
 東京都のGitHubリポジトリをベースに作られた神奈川県のサイト。GitHubでの公開はしていない模様
 
-[大阪府内の最新感染動向](https://osaka-prefecture.netlify.com/)
+[大阪府内の最新感染動向](https://osaka-prefecture.netlify.com/)  
 個人発信。東京都のGitHubリポジトリをベースに作られているよう
 
 [三重県内の最新感染動向](https://covid19-mie.netlify.com/)[(GitHub:FlexiblePrintedCircuits/covid19-mie)](https://github.com/FlexiblePrintedCircuits/covid19-mie)  
