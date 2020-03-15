@@ -32,6 +32,9 @@ https://github.com/karaage0703/covid19_memo
 [大阪府内の最新感染動向](https://osaka-prefecture.netlify.com/)
 個人発信。東京都のGitHubリポジトリをベースに作られているよう
 
+[三重県内の最新感染動向](https://covid19-mie.netlify.com/)[(GitHub:FlexiblePrintedCircuits/covid19-mie)](https://github.com/FlexiblePrintedCircuits/covid19-mie)  
+個人発信。作成経緯や技術的内容が[Qiita記事](https://qiita.com/sakuranomiyu/items/30c09efaf717b5e82973)にまとめられている
+
 #### 国内全体
 [新型コロナウイルス国内感染の状況](https://toyokeizai.net/sp/visual/tko/covid19/)[(GitHub:kaz-ogiwara/covid19)](https://github.com/kaz-ogiwara/covid19)  
 東洋経済発信。みやすく国内のデータが一目で把握できる
