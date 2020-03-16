@@ -129,13 +129,20 @@ New York Times発信。日本の感染者数はクルーズ船が含まれてい
 ## オープンデータ
 　オープンデータとして公開されているCOVID-19関連データ。
 
-[COVID19Japan.com Data(Spredsheet)](https://docs.google.com/spreadsheets/d/1jfB4muWkzKTR0daklmf8D5F0Uf_IYAgcx_-Ij9McClQ/edit#gid=0)
+[COVID19Japan.com Data(Spredsheet)](https://docs.google.com/spreadsheets/d/1jfB4muWkzKTR0daklmf8D5F0Uf_IYAgcx_-Ij9McClQ/edit#gid=0)  
+Google スプレッドシートでオープンデータとして公開
 
-[東洋経済 csvデータ](https://toyokeizai.net/sp/visual/tko/covid19/csv/data.csv)
+[東洋経済 csvデータ](https://toyokeizai.net/sp/visual/tko/covid19/csv/data.csv)  
+東洋経済が公開しているオープンデータ
 
-[Novel Corona Virus 2019 Dataset(kaggle)](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
+[Novel Corona Virus 2019 Dataset(kaggle)](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)  
+Kaggleのデータセットとして公開
 
-[COVID-19 Complete Dataset (Updated every 24hrs)(kaggle)](https://www.kaggle.com/imdevskp/corona-virus-report)
+[COVID-19 Complete Dataset (Updated every 24hrs)(kaggle)](https://www.kaggle.com/imdevskp/corona-virus-report)  
+Kaggleのデータセットとして公開
+
+[【新型コロナ】県別の検査数の推移](https://datastudio.google.com/u/0/reporting/3a3bbd66-3674-4274-853c-5ab8e30aa7d0/page/FfiHB)  
+個人発信。Googleデータポータルを使ってオープンデータを可視化
 
 ## COVID-19対策として提供されている優良サービスまとめ
 [COVID-19に負けない! 配信、支援サービスリスト](https://tomo-makes.github.io/overcome-covid-19-jp/)
