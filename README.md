@@ -144,6 +144,9 @@ Kaggleのデータセットとして公開
 [【新型コロナ】県別の検査数の推移](https://datastudio.google.com/u/0/reporting/3a3bbd66-3674-4274-853c-5ab8e30aa7d0/page/FfiHB)  
 個人発信。Googleデータポータルを使ってオープンデータを可視化
 
+[GitHub:ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)  
+医療機関発信。X線写真、CT写真のデータセット。写真からCOVID-19を判別するための教師データとして使用する
+
 ## COVID-19対策として提供されている優良サービスまとめ
 [COVID-19に負けない! 配信、支援サービスリスト](https://tomo-makes.github.io/overcome-covid-19-jp/)
 [(GitHub:tomo-makes/overcome-covid-19-jp)](https://github.com/tomo-makes/overcome-covid-19-jp)  
