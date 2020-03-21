@@ -20,17 +20,11 @@ https://github.com/karaage0703/covid19_memo
 [愛知県内の最新感染動向](https://stopcovid19.code4.nagoya/)[(GitHub:code4nagoya/covid19)](https://github.com/code4nagoya/covid19)  
 [Code for Nagoya](https://code4.nagoya/)発信。東京都のGitHubリポジトリをforkして作られた愛知県のサイト。
 
-[愛知新型コロナウイルス感染情報（閉鎖）](https://code4aichi.github.io/corona/)[(GitHub:code4aichi/corona)](https://github.com/code4aichi/corona)  
-[Code for AICHI](https://www.code4aichi.org/)発信。愛知県での感染状況に加え、感染Mapや人物相関、予防関係のリンクと情報がまとまっていたが、閉鎖し愛知県の情報はCode for Nagoyaの[愛知県内の最新感染動向](https://stopcovid19.code4.nagoya/)に一本化。
-
 [北海道内の最新感染動向](https://stopcovid19.hokkaido.dev/)[(GitHub:codeforsapporo/covid19)](https://github.com/codeforsapporo/covid19)  
 [Code for Sapporo](https://www.codeforsapporo.org/)発信。東京都のGitHubリポジトリをforkして作られた北海道のサイト
 
 [神奈川県内の最新感染動向](https://www.pref.kanagawa.jp/osirase/1369/)  
 東京都のGitHubリポジトリをベースに作られた神奈川県のサイト。GitHubでの公開はしていない模様
-
-[大阪府内の最新感染動向](https://osaka-prefecture.netlify.com/)  
-個人発信。東京都のGitHubリポジトリをベースに作られているよう
 
 [三重県内の最新感染動向](https://covid19-mie.netlify.com/)[(GitHub:FlexiblePrintedCircuits/covid19-mie)](https://github.com/FlexiblePrintedCircuits/covid19-mie)  
 個人発信。作成経緯や技術的内容が[Qiita記事](https://qiita.com/sakuranomiyu/items/30c09efaf717b5e82973)にまとめられている
@@ -177,3 +171,13 @@ Kaggleのデータセットとして公開
 ## その他
 [東京都 新型コロナウイルス対策サイトへの貢献方法を解説](https://qiita.com/FPC_COMMUNITY/items/b9cc072813dc2231b2b2)  
 GitHubへのPRの具体的な手順
+
+
+## 閉鎖したサイト
+　公式に一本化する等の理由で閉鎖したサイト。
+
+[愛知新型コロナウイルス感染情報](https://code4aichi.github.io/corona/)[(GitHub:code4aichi/corona)](https://github.com/code4aichi/corona)  
+[Code for AICHI](https://www.code4aichi.org/)発信。愛知県での感染状況に加え、感染Mapや人物相関、予防関係のリンクと情報がまとまっていたが、閉鎖し愛知県の情報はCode for Nagoyaの[愛知県内の最新感染動向](https://stopcovid19.code4.nagoya/)に一本化。
+
+[大阪府内の最新感染動向](https://osaka-prefecture.netlify.com/)  
+個人発信。東京都のGitHubリポジトリをベースに作られているよう。大阪府が同等のページを立ち上げるということで一本化
