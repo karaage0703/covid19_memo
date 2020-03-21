@@ -29,7 +29,7 @@ https://github.com/karaage0703/covid19_memo
 [三重県内の最新感染動向](https://covid19-mie.netlify.com/)[(GitHub:FlexiblePrintedCircuits/covid19-mie)](https://github.com/FlexiblePrintedCircuits/covid19-mie)  
 個人発信。作成経緯や技術的内容が[Qiita記事](https://qiita.com/sakuranomiyu/items/30c09efaf717b5e82973)にまとめられている
 
-[大阪府の最新感染動向](https://covid19-osaka.info/)  
+[大阪府の最新感染動向](https://covid19-osaka.info/)[(GitHub:codeforosaka/covid19)](https://github.com/codeforosaka/covid19)  
 大阪府が[Code for OSAKA](https://code4.osaka/)協力のもと立ち上げ。東京都のGitHubリポジトリをベースに作られている
 
 #### 国内全体
