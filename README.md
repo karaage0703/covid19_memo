@@ -125,6 +125,19 @@ New York Times発信。日本の感染者数はクルーズ船が含まれてい
 
 [tableau search results](https://public.tableau.com/en-us/search/all/%23corona)
 
+## データ分析のコンペティション
+[COVID19 Global Forecasting (Week 1)](https://www.kaggle.com/c/covid19-global-forecasting-week-1)  
+感染拡大を予想するKaggleのコンペ（世界版）
+
+[COVID19 Local US-CA Forecasting (Week 1)](https://www.kaggle.com/c/covid19-local-us-ca-forecasting-week-1)  
+感染拡大を予想するKaggleのコンペ（USローカル版）
+
+[AI4D Predict the Global Spread of COVID-19](https://zindi.africa/competitions/predict-the-global-spread-of-covid-19)  
+感染拡大を予想するZindi（アフリカ）のコンペ
+
+[COVID-19チャレンジ（フェーズ1）](https://signate.jp/competitions/260)  
+Signate（日本）のCOVID-19に関するコンペ。初回のフェーズ1では、オープンデータの整備を目的に開催
+
 
 ## オープンデータ
 　オープンデータとして公開されているCOVID-19関連データ。
@@ -140,6 +153,9 @@ Kaggleのデータセットとして公開
 
 [COVID-19 Complete Dataset (Updated every 24hrs)(kaggle)](https://www.kaggle.com/imdevskp/corona-virus-report)  
 Kaggleのデータセットとして公開
+
+[COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)  
+米ホワイトハウスらが、Kaggleで提供。COVID-19に関する研究論文を集めたデータ。
 
 [【新型コロナ】県別の検査数の推移](https://datastudio.google.com/u/0/reporting/3a3bbd66-3674-4274-853c-5ab8e30aa7d0/page/FfiHB)  
 個人発信。Googleデータポータルを使ってオープンデータを可視化
