@@ -3,13 +3,13 @@
 
 このリポジトリはGitHub Pagesを用いることで、以下アドレスでWebサイトとして公開されています。
 
-https://karaage0703.github.io/covid19_memo/
+[新型コロナウイルス感染症に関する可視化情報等の個人的なまとめ](https://karaage0703.github.io/covid19_memo/)
 
 あくまで個人的なまとめで、内容に対して保証などするものではありません。
 
 以下GitHubリポジトリの内容と連動しています。PR歓迎します。
 
-https://github.com/karaage0703/covid19_memo
+[GitHub:karaage0703/covid19_memo](https://github.com/karaage0703/covid19_memo)
 
 ## 可視化情報
 ### Japan
@@ -18,7 +18,7 @@ https://github.com/karaage0703/covid19_memo
 東京都発信。GitHubでの開発が活発
 
 [愛知県内の最新感染動向](https://stopcovid19.code4.nagoya/)[(GitHub:code4nagoya/covid19)](https://github.com/code4nagoya/covid19)  
-[Code for Nagoya](https://code4.nagoya/)発信。東京都のGitHubリポジトリをforkして作られた愛知県のサイト。
+[Code for Nagoya](https://code4.nagoya/)発信。東京都のGitHubリポジトリをforkして作られた愛知県のサイト
 
 [北海道内の最新感染動向](https://stopcovid19.hokkaido.dev/)[(GitHub:codeforsapporo/covid19)](https://github.com/codeforsapporo/covid19)  
 [Code for Sapporo](https://www.codeforsapporo.org/)発信。東京都のGitHubリポジトリをforkして作られた北海道のサイト
@@ -55,7 +55,7 @@ NHK発信。国内のデータを可視化
 個人の発信。国内のデータを可視化。ネットワーク図で人同士の繋がりがみられるのが特徴。技術的な内容は[Qiita記事](https://qiita.com/OgawaHideyuki/items/204a2bcff6a3022ffc50)参照
 
 [新型コロナウイルス感染速報](https://covid-2019.live)[(GitHub:swsoyee/2019-ncov-japan)](https://github.com/swsoyee/2019-ncov-japan)  
-個人の発信。厚生労働省の情報をもとに可視化。情報量多くみやすい。
+個人の発信。厚生労働省の情報をもとに可視化。情報量多くみやすい
 
 [日本 新型コロナウイルスオープンデータサマリー](https://code4sabae.github.io/covid19/)  
 Code for Sabae発信。オープンデータを活用して、日本全国の情報を可視化
@@ -103,7 +103,7 @@ New York Times発信。日本の感染者数はクルーズ船が含まれてい
 [twiecki/covid19](https://github.com/twiecki/covid19)
 
 ## Kaggleでのデータ分析結果
-　Kaggleでデータ分析をしている例。Pythonで分析・可視化する際の参考
+　Kaggleでデータ分析をしている例。Pythonで分析・可視化する際の参考になる。
 
 [COVID-19 - Analysis, Viz, Prediction & Comparisons](https://www.kaggle.com/imdevskp/covid-19-analysis-viz-prediction-comparisons)
 
@@ -180,7 +180,7 @@ GitHubへのPRの具体的な手順
 　公式に一本化する等の理由で閉鎖したサイト。
 
 [愛知新型コロナウイルス感染情報](https://code4aichi.github.io/corona/)[(GitHub:code4aichi/corona)](https://github.com/code4aichi/corona)  
-[Code for AICHI](https://www.code4aichi.org/)発信。愛知県での感染状況に加え、感染Mapや人物相関、予防関係のリンクと情報がまとまっていたが、閉鎖し愛知県の情報はCode for Nagoyaの[愛知県内の最新感染動向](https://stopcovid19.code4.nagoya/)に一本化。
+[Code for AICHI](https://www.code4aichi.org/)発信。愛知県での感染状況に加え、感染Mapや人物相関、予防関係のリンクと情報がまとまっていたが、閉鎖し愛知県の情報はCode for Nagoyaの[愛知県内の最新感染動向](https://stopcovid19.code4.nagoya/)に一本化
 
 [大阪府内の最新感染動向](https://osaka-prefecture.netlify.com/)  
 個人発信。東京都のGitHubリポジトリをベースに作られているよう。大阪府が同等のページを立ち上げるということで一本化
