@@ -30,7 +30,13 @@
 個人発信。作成経緯や技術的内容が[Qiita記事](https://qiita.com/sakuranomiyu/items/30c09efaf717b5e82973)にまとめられている
 
 [大阪府の最新感染動向](https://covid19-osaka.info/)[(GitHub:codeforosaka/covid19)](https://github.com/codeforosaka/covid19)  
-大阪府が[Code for OSAKA](https://code4.osaka/)協力のもと立ち上げ。東京都のGitHubリポジトリをベースに作られている
+大阪府が[Code for OSAKA](https://code4.osaka/)協力のもと立ち上げ。東京都のGitHubリポジトリをforkして作られている
+
+[長崎県内の最新感染動向](https://stopcovid19-nagasaki.netlify.com)[(GitHub:CodeForNagasaki/covid19)](https://github.com/CodeForNagasaki/covid19)  
+長崎市とCode for Nagasakiが発信？東京都のGitHubリポジトリをforkして作られている
+
+[九州の最新感染動向](https://dev-covid19-kyusyu.netlify.com)[(GitHub:Code-for-Kyushu/covid19)](https://github.com/Code-for-Kyushu/covid19)  
+Code for KYUSHU発信。まだ準備中のようです。
 
 #### 国内全体
 [新型コロナウイルス国内感染の状況](https://toyokeizai.net/sp/visual/tko/covid19/)[(GitHub:kaz-ogiwara/covid19)](https://github.com/kaz-ogiwara/covid19)  
@@ -102,7 +108,8 @@ New York Times発信。日本の感染者数はクルーズ船が含まれてい
  
 [twiecki/covid19](https://github.com/twiecki/covid19)
 
-## Kaggleでのデータ分析結果
+## データ分析・可視化結果
+### Kaggle
 　Kaggleでデータ分析をしている例。Pythonで分析・可視化する際の参考になる。
 
 [COVID-19 - Analysis, Viz, Prediction & Comparisons](https://www.kaggle.com/imdevskp/covid-19-analysis-viz-prediction-comparisons)
@@ -111,7 +118,7 @@ New York Times発信。日本の感染者数はクルーズ船が含まれてい
 
 [Novel Coronavirus: EDA & Forecast Number of Cases](https://www.kaggle.com/khoongweihao/novel-coronavirus-eda-forecast-number-of-cases)
 
-## Tableauでの可視化結果
+### Tableau
 　Tableauでの可視化した結果。
 
 [CoronaVirusDashboard](https://public.tableau.com/profile/travis.winn#!/vizhome/CoronaVirusVisualizationDashboardUpdated3_27_2020/CoronaVirusDashboard2_11_2020)
@@ -121,6 +128,12 @@ New York Times発信。日本の感染者数はクルーズ船が含まれてい
 [CORONA19Map](https://public.tableau.com/profile/seungilkang#!/vizhome/CORONA19_Map/CORONA19Map)
 
 [tableau search results](https://public.tableau.com/en-us/search/all/%23corona)
+
+### 個人
+　個人でのデータ分析
+ 
+ [personal-hm2/coronavirus_model](https://github.com/personal-hm2/coronavirus_model)  
+ PFNの丸山さんが、新型コロナウイルスの流行予測のモデル化をしたJupyter Notebook。
 
 ## データ分析のコンペティション
 [COVID19 Global Forecasting (Week 1)](https://www.kaggle.com/c/covid19-global-forecasting-week-1)  
@@ -159,6 +172,9 @@ Kaggleのデータセットとして公開
 
 [GitHub:ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)  
 医療機関発信。X線写真、CT写真のデータセット。写真からCOVID-19を判別するための教師データとして使用する
+
+[COVID-19 Dashboards](https://covid19dashboards.com/)[(GitHub:github/covid19-dashboard)](https://github.com/github/covid19-dashboard)  
+GitHub発信。[fastpages](https://github.com/fastai/fastpages)をforkして作られているページ。新型コロナウイルスに関するデータのダッシュボード
 
 ## COVID-19対策として提供されている優良サービスまとめ
 [COVID-19に負けない! 配信、支援サービスリスト](https://tomo-makes.github.io/overcome-covid-19-jp/)
