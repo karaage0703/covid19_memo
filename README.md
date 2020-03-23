@@ -63,7 +63,7 @@ NHK発信。国内のデータを可視化
 [新型コロナウイルス感染速報](https://covid-2019.live)[(GitHub:swsoyee/2019-ncov-japan)](https://github.com/swsoyee/2019-ncov-japan)  
 個人の発信。厚生労働省の情報をもとに可視化。情報量多くみやすい
 
-[日本 新型コロナウイルスオープンデータサマリー](https://code4sabae.github.io/covid19/)  
+[新型コロナウイルス対策ダッシュボード](https://code4sabae.github.io/covid19/)[(GitHub:code4sabae/covid19)](https://github.com/code4sabae/covid19)  
 Code for Sabae発信。オープンデータを活用して、日本全国の情報を可視化
 
 ### World
