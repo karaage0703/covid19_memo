@@ -33,10 +33,14 @@
 大阪府が[Code for OSAKA](https://code4.osaka/)協力のもと立ち上げ。東京都のGitHubリポジトリをforkして作られている
 
 [長崎県内の最新感染動向](https://stopcovid19-nagasaki.netlify.com)[(GitHub:CodeForNagasaki/covid19)](https://github.com/CodeForNagasaki/covid19)  
-長崎市とCode for Nagasakiが発信？東京都のGitHubリポジトリをforkして作られている
+長崎市とCode for Nagasakiが発信。東京都のGitHubリポジトリをforkして作られている
 
 [九州の最新感染動向](https://dev-covid19-kyusyu.netlify.com)[(GitHub:Code-for-Kyushu/covid19)](https://github.com/Code-for-Kyushu/covid19)  
-Code for KYUSHU発信。まだ準備中のようです。
+Code for KYUSHU発信。まだ準備中のもよう。東京都のGitHubリポジトリをforkして作られている
+
+[埼玉県内の最新感染動向](https://saitama.stopcovid19.jp)[(GitHub:codefortoda/covid19-saitama)](https://github.com/codefortoda/covid19-saitama)  
+[Code for TODA](https://codefortoda.org)発信の非公式サイト。東京都のGitHubリポジトリをベースに作られている
+
 
 #### 国内全体
 [新型コロナウイルス国内感染の状況](https://toyokeizai.net/sp/visual/tko/covid19/)[(GitHub:kaz-ogiwara/covid19)](https://github.com/kaz-ogiwara/covid19)  
@@ -65,6 +69,9 @@ NHK発信。国内のデータを可視化
 
 [新型コロナウイルス対策ダッシュボード](https://code4sabae.github.io/covid19/)[(GitHub:code4sabae/covid19)](https://github.com/code4sabae/covid19)  
 Code for Sabae発信。オープンデータを活用して、日本全国の情報を可視化
+
+[都道府県別 感染症病床数](https://code4sabae.github.io/bedforinfection/)[(GitHub:code4sabae/bedforinfection)](https://github.com/code4sabae/bedforinfection)  
+Code for Sabae発信。感染症病ベッド情報を公開中
 
 ### World
 [新型コロナ感染世界マップ](https://vdata.nikkei.com/newsgraphics/coronavirus-world-map/)  
