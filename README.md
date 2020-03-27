@@ -198,6 +198,8 @@ GitHub発信。[fastpages](https://github.com/fastai/fastpages)をforkして作�
 [東京都 新型コロナウイルス対策サイトへの貢献方法を解説](https://qiita.com/FPC_COMMUNITY/items/b9cc072813dc2231b2b2)  
 GitHubへのPRの具体的な手順
 
+[Open collaboration on COVID-19](https://github.blog/2020-03-23-open-collaboration-on-covid-19/)  
+GitHub上にある新型コロナ関係のプロジェクトまとめ。このサイトで紹介しているものも多く含まれている
 
 ## 閉鎖したサイト
 　公式に一本化する等の理由で閉鎖したサイト。
