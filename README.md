@@ -41,6 +41,8 @@ Code for KYUSHU発信。まだ準備中のもよう。東京都のGitHubリポ�
 [埼玉県内の最新感染動向](https://saitama.stopcovid19.jp)[(GitHub:codefortoda/covid19-saitama)](https://github.com/codefortoda/covid19-saitama)  
 [Code for TODA](https://codefortoda.org)発信の非公式サイト。東京都のGitHubリポジトリをベースに作られている
 
+[福井県内の最新感染動向](https://covid19-fukui.com/)  
+個人の発信。東京都のGitHubリポジトリをforkして作られている
 
 #### 国内全体
 [新型コロナウイルス国内感染の状況](https://toyokeizai.net/sp/visual/tko/covid19/)[(GitHub:kaz-ogiwara/covid19)](https://github.com/kaz-ogiwara/covid19)  
