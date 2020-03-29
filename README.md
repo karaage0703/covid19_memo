@@ -41,8 +41,12 @@ Code for KYUSHU発信。まだ準備中のもよう。東京都のGitHubリポ�
 [埼玉県内の最新感染動向](https://saitama.stopcovid19.jp)[(GitHub:codefortoda/covid19-saitama)](https://github.com/codefortoda/covid19-saitama)  
 [Code for TODA](https://codefortoda.org)発信の非公式サイト。東京都のGitHubリポジトリをベースに作られている
 
-[福井県内の最新感染動向](https://covid19-fukui.com/)  
+[福井県内の最新感染動向](https://covid19-fukui.com/)[(GitHub:nomunomu0504/covid19)](https://github.com/nomunomu0504/covid19)  
 個人の発信。東京都のGitHubリポジトリをforkして作られている
+
+[石川県内の最新感染動向](https://ishikawa-covid19.netlify.com/)[(GitHub:)](https://github.com/Retsuki/covid19-ishikawa)  
+個人の発信。東京都のGitHubリポジトリをforkして作られている。作成経緯が[Qiitaの記事](https://qiita.com/Retsuki/items/88eded5e61af200305fb)にまとめられている
+
 
 #### 国内全体
 [新型コロナウイルス国内感染の状況](https://toyokeizai.net/sp/visual/tko/covid19/)[(GitHub:kaz-ogiwara/covid19)](https://github.com/kaz-ogiwara/covid19)  
@@ -103,6 +107,9 @@ New York Times発信。日本の感染者数はクルーズ船が含まれてい
 [Databrew's COVID-19 data explorer](https://datacat.cc/covid19/)  
 データコンサルタントのdatabrew発信。新型コロナウイルスの流行の勢いを国別で可視化・比較できる。詳細は、[Gigazineの記事](https://gigazine.net/news/20200312-databrew-covid19-data-explorer/)参照
 
+[Covid Trends](https://aatishb.com/covidtrends/)  
+国別の感染の広がり方を、時系列のグラフで可視化
+
 ## Google Colaboratoryでの可視化
 　個人的に、Google Colaboratoryでデータを可視化するためのノートブックを作成しました。内容は正確性を保証するものではないですが、ご自由に利用下さい。
 
@@ -111,7 +118,6 @@ New York Times発信。日本の感染者数はクルーズ船が含まれてい
 　データは、以下のSpredsheetを使用しています。
  
 [COVID19Japan.com Data(Spredsheet)](https://docs.google.com/spreadsheets/d/1jfB4muWkzKTR0daklmf8D5F0Uf_IYAgcx_-Ij9McClQ/edit#gid=0)
-
 
 　その他、以下のJupyterノートブックの分析も丁寧でした。
  
