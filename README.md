@@ -44,7 +44,7 @@ Code for KYUSHU発信。まだ準備中のもよう。東京都のGitHubリポ�
 [福井県内の最新感染動向](https://covid19-fukui.com/)[(GitHub:nomunomu0504/covid19)](https://github.com/nomunomu0504/covid19)  
 個人の発信。東京都のGitHubリポジトリをforkして作られている
 
-[石川県内の最新感染動向](https://ishikawa-covid19.netlify.com/)[(GitHub:)](https://github.com/Retsuki/covid19-ishikawa)  
+[石川県内の最新感染動向](https://ishikawa-covid19.netlify.com/)[(GitHub:Retsuki/covid19-ishikawa)](https://github.com/Retsuki/covid19-ishikawa)  
 個人の発信。東京都のGitHubリポジトリをforkして作られている。作成経緯が[Qiitaの記事](https://qiita.com/Retsuki/items/88eded5e61af200305fb)にまとめられている
 
 
