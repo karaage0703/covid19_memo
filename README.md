@@ -112,16 +112,6 @@ New York Times発信。日本の感染者数はクルーズ船が含まれてい
 
 
 ## データ分析・可視化結果
-### Google Colaboratoryでの可視化
-　Google Colaboratory上で動く、感染状況を可視化しているノートブック。
-
-[covid19_visualization](https://github.com/karaage0703/covid19_memo/blob/master/covid19_visualization.ipynb)  
-karaage0703が個人的に作成した、国内の感染状況を可視化するためのGoogle Colaboratoryのノートブック。データは[COVID19Japan.com Data(Spredsheet)](https://docs.google.com/spreadsheets/d/1jfB4muWkzKTR0daklmf8D5F0Uf_IYAgcx_-Ij9McClQ/edit#gid=0)のスプレッドシートを使用
- 
-[GitHub:twiecki/covid19](https://github.com/twiecki/covid19)  
-感染状況を可視化しているJupyter Notebook
-
-
 ### Kaggle
 　Kaggleでデータ分析をしている例。Pythonで分析・可視化する際の参考になる。
 
@@ -145,8 +135,15 @@ karaage0703が個人的に作成した、国内の感染状況を可視化する
 ### 個人
 　個人でのデータ分析
  
- [personal-hm2/coronavirus_model](https://github.com/personal-hm2/coronavirus_model)  
- PFNの丸山さんが、新型コロナウイルスの流行予測のモデル化をしたJupyter Notebook。
+[covid19_visualization.ipynb](https://github.com/karaage0703/covid19_memo/blob/master/covid19_visualization.ipynb)  
+
+karaage0703が個人的に作成した、国内の感染状況を可視化するためのGoogle Colaboratoryのノートブック。データは[COVID19Japan.com Data(Spredsheet)](https://docs.google.com/spreadsheets/d/1jfB4muWkzKTR0daklmf8D5F0Uf_IYAgcx_-Ij9McClQ/edit#gid=0)のスプレッドシートを使用
+ 
+[GitHub:twiecki/covid19](https://github.com/twiecki/covid19)  
+感染状況を可視化しているJupyter Notebook
+ 
+[personal-hm2/coronavirus_model](https://github.com/personal-hm2/coronavirus_model)  
+PFNの丸山さんが、新型コロナウイルスの流行予測のモデル化をしたJupyter Notebook。
 
 ## データ分析のコンペティション
 [COVID19 Global Forecasting (Week 1)](https://www.kaggle.com/c/covid19-global-forecasting-week-1)  
