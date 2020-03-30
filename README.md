@@ -111,17 +111,13 @@ New York Times発信。日本の感染者数はクルーズ船が含まれてい
 国別の感染の広がり方を、時系列のグラフで可視化
 
 ## Google Colaboratoryでの可視化
-　個人的に、Google Colaboratoryでデータを可視化するためのノートブックを作成しました。内容は正確性を保証するものではないですが、ご自由に利用下さい。
+　Google Colaboratory上で動く、感染状況を可視化しているノートブック。
 
-[covid19_visualization.ipynb](https://github.com/karaage0703/covid19_memo/blob/master/covid19_visualization.ipynb)
-
-　データは、以下のSpredsheetを使用しています。
+[covid19_visualization.ipynb](https://github.com/karaage0703/covid19_memo/blob/master/covid19_visualization.ipynb)  
+karaage0703が個人的に作成した、国内の感染状況を可視化するためのGoogle Colaboratoryのノートブック。データは[COVID19Japan.com Data(Spredsheet)](https://docs.google.com/spreadsheets/d/1jfB4muWkzKTR0daklmf8D5F0Uf_IYAgcx_-Ij9McClQ/edit#gid=0)のスプレッドシートの値を使用
  
-[COVID19Japan.com Data(Spredsheet)](https://docs.google.com/spreadsheets/d/1jfB4muWkzKTR0daklmf8D5F0Uf_IYAgcx_-Ij9McClQ/edit#gid=0)
-
-　その他、以下のJupyterノートブックの分析も丁寧でした。
- 
-[twiecki/covid19](https://github.com/twiecki/covid19)
+[GitHub:twiecki/covid19](https://github.com/twiecki/covid19)  
+感染状況を可視化しているJupyter Notebook
 
 ## データ分析・可視化結果
 ### Kaggle
