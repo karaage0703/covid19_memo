@@ -136,7 +136,8 @@ New York Times発信。日本の感染者数はクルーズ船が含まれてい
 　個人でのデータ分析
 
 [covid19_visualization.ipynb](https://github.com/karaage0703/covid19_memo/blob/master/covid19_visualization.ipynb)  
-個人的に作成した、国内の感染状況を可視化するためのGoogle Colaboratoryのノートブック。データは[COVID19Japan.com Data(Spredsheet)](https://docs.google.com/spreadsheets/d/1jfB4muWkzKTR0daklmf8D5F0Uf_IYAgcx_-Ij9McClQ/edit#gid=0)のスプレッドシートを使用
+
+karaage0703が個人的に作成した、国内の感染状況を可視化するためのGoogle Colaboratoryのノートブック。データは[COVID19Japan.com Data(Spredsheet)](https://docs.google.com/spreadsheets/d/1jfB4muWkzKTR0daklmf8D5F0Uf_IYAgcx_-Ij9McClQ/edit#gid=0)のスプレッドシートを使用
  
 [GitHub:twiecki/covid19](https://github.com/twiecki/covid19)  
 感染状況を可視化しているJupyter Notebook
