@@ -132,8 +132,11 @@ New York Times発信。日本の感染者数はクルーズ船が含まれてい
 
 [tableau search results](https://public.tableau.com/en-us/search/all/%23corona)
 
-### 個人
-　個人でのデータ分析
+### その他
+　その他、メディアや個人でのデータ分析の紹介。
+
+[Coronavirus Disease (COVID-19) – Statistics and Research](https://ourworldindata.org/coronavirus)  
+感染状況の統計的な分析記事
 
 [covid19_visualization.ipynb](https://github.com/karaage0703/covid19_memo/blob/master/covid19_visualization.ipynb)  
 
