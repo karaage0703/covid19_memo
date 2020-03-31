@@ -189,6 +189,9 @@ Kaggleのデータセットとして公開
 [COVID-19 Dashboards](https://covid19dashboards.com/)[(GitHub:github/covid19-dashboard)](https://github.com/github/covid19-dashboard)  
 GitHub発信。[fastpages](https://github.com/fastai/fastpages)をforkして作られているページ。新型コロナウイルスに関するデータのダッシュボード
 
+[COVID-19(csv)](https://jag-japan.com/covid19map-readme/)  
+ジャッグジャパン株式会社さんが、都道府県別新型コロナウイルス感染者数マップに付随するデータとしてオープンデータとして公開。マップならびにデータへのリンクにCSVへのリンクあり
+
 ## COVID-19対策として提供されている優良サービスまとめ
 [COVID-19に負けない! 配信、支援サービスリスト](https://tomo-makes.github.io/overcome-covid-19-jp/)
 [(GitHub:tomo-makes/overcome-covid-19-jp)](https://github.com/tomo-makes/overcome-covid-19-jp)  
@@ -206,6 +209,9 @@ GitHubへのPRの具体的な手順
 
 [Open collaboration on COVID-19](https://github.blog/2020-03-23-open-collaboration-on-covid-19/)  
 GitHub上にある新型コロナ関係のプロジェクトまとめ。このサイトで紹介しているものも多く含まれている
+
+[新型コロナ対策サイトのまとめ](https://hackmd.io/9TTyyjchR8ufuMd9z08Rcg)  
+まとめのサイト。このページより情報量多いです
 
 ## 閉鎖したサイト
 　公式に一本化する等の理由で閉鎖したサイト。
