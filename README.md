@@ -79,6 +79,9 @@ Code for Sabae発信。オープンデータを活用して、日本全国の情
 [都道府県別 感染症病床数](https://code4sabae.github.io/bedforinfection/)[(GitHub:code4sabae/bedforinfection)](https://github.com/code4sabae/bedforinfection)  
 Code for Sabae発信。感染症病ベッド情報を公開中
 
+[新型コロナウィルス Covid-19 全国公式データ一覧](https://nextmltech.org/2020/03/29/covid-19-japan-data-from-official-site/)  
+個人発信。全国の公式データのリンクまとめ
+
 ### World
 [新型コロナ感染世界マップ](https://vdata.nikkei.com/newsgraphics/coronavirus-world-map/)  
 日経新聞発信。みやすく世界の情報が可視化されている
@@ -159,8 +162,10 @@ PFNの丸山さんが、新型コロナウイルスの流行予測のモデル�
 感染拡大を予想するZindi（アフリカ）のコンペ
 
 [COVID-19チャレンジ（フェーズ1）](https://signate.jp/competitions/260)  
-Signate（日本）のCOVID-19に関するコンペ。初回のフェーズ1では、オープンデータの整備を目的に開催
+SIGNATE（日本）のCOVID-19に関するコンペ。初回のフェーズ1では、オープンデータの整備を目的に開催
 
+[COVID-19チャレンジ（フェーズ2）](https://signate.jp/competitions/261)  
+SIGNATE（日本）のCOVID-19に関するコンペ。フェーズ1で成果として得られたオープンデータを使ったデータ分析を実施
 
 ## オープンデータ
 　オープンデータとして公開されているCOVID-19関連データ。
@@ -191,6 +196,16 @@ GitHub発信。[fastpages](https://github.com/fastai/fastpages)をforkして作�
 
 [COVID-19(csv)](https://jag-japan.com/covid19map-readme/)  
 ジャッグジャパン株式会社さんが、都道府県別新型コロナウイルス感染者数マップに付随するデータとしてオープンデータとして公開。マップならびにデータへのリンクにCSVへのリンクあり
+
+[SIGNATE COVID-2019 Dataset(Spreadsheet)](http://bit.ly/signate_covid-19)  
+SIGNATEのCOVID-19チャレンジ（フェーズ1）の成果物としてオープンデータとして公開されたスプレッドシート
+
+## COVID-19に関する資料
+[COVID-19 について](http://minato.sip21c.org/COVID-19-J.pdf)  
+神戸大学の公衆衛生分野の中村先生の資料。情報量多め
+
+[COVID-19への対策の概念](https://www.jsph.jp/covid/files/gainen.pdf)  
+東北大学大学院医学系研究科の押谷先生の資料。シンプルで分かりやすい資料
 
 ## COVID-19対策として提供されている優良サービスまとめ
 [COVID-19に負けない! 配信、支援サービスリスト](https://tomo-makes.github.io/overcome-covid-19-jp/)
