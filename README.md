@@ -82,6 +82,9 @@ Code for Sabae発信。感染症病ベッド情報を公開中
 [新型コロナウィルス Covid-19 全国公式データ一覧](https://nextmltech.org/2020/03/29/covid-19-japan-data-from-official-site/)  
 個人発信。全国の公式データのリンクまとめ
 
+[SIGNATE COVID-19 Dashboard](https://datastudio.google.com/reporting/c7db83c8-296a-4c90-990c-5468f35f9f7f/page/US3JB)  
+SIGNATEの[COVID-19チャレンジ（フェーズ1）](https://signate.jp/competitions/260)から生まれたダッシュボード
+
 ### World
 [新型コロナ感染世界マップ](https://vdata.nikkei.com/newsgraphics/coronavirus-world-map/)  
 日経新聞発信。みやすく世界の情報が可視化されている
@@ -135,16 +138,30 @@ New York Times発信。日本の感染者数はクルーズ船が含まれてい
 
 [tableau search results](https://public.tableau.com/en-us/search/all/%23corona)
 
+[SIGNATE #COVID19 Cases Dashbord](https://public.tableau.com/profile/naoko.ozaki#!/vizhome/SIGNATECOVID19CasesDashbord/SIGNATECOVID19CasesDashbord)
+
+
+### 自分のデータ分析
+　自分が実施したデータ分析の結果。
+ 
+[新型コロナウイルス感染症（COVID-19）のオープンデータをGoogle Colaboratoryで手軽に可視化・分析する方法](https://qiita.com/karaage0703/items/0e24f332dcda7d7730b5)  
+Qiitaへの投稿記事。Google Colabを使った分析の手順
+
+[covid19_visualization.ipynb](https://github.com/karaage0703/covid19_memo/blob/master/covid19_visualization.ipynb)  
+オープンデータとして公開されているGoogle Spread Sheetを用いた分析
+
+[covid19_visualization_json.ipynb](https://github.com/karaage0703/covid19_memo/blob/master/covid19_visualization_json.ipynb)  
+日本全国の感染動向可視化動向の可視化サイトのjson形式データを用いた分析  
+
+[signate_covid_19.ipynb](https://github.com/karaage0703/covid19_memo/blob/master/signate_covid_19.ipynb)  
+SIGNATEのCOVID-19チャレンジ（フェーズ1）の成果物として公開されたオープンデータ（Google Spread Sheet）を用いた分析
+
 ### その他
 　その他、メディアや個人でのデータ分析の紹介。
 
 [Coronavirus Disease (COVID-19) – Statistics and Research](https://ourworldindata.org/coronavirus)  
 感染状況の統計的な分析記事
 
-[covid19_visualization.ipynb](https://github.com/karaage0703/covid19_memo/blob/master/covid19_visualization.ipynb)  
-
-karaage0703が個人的に作成した、国内の感染状況を可視化するためのGoogle Colaboratoryのノートブック。データは[COVID19Japan.com Data(Spredsheet)](https://docs.google.com/spreadsheets/d/1jfB4muWkzKTR0daklmf8D5F0Uf_IYAgcx_-Ij9McClQ/edit#gid=0)のスプレッドシートを使用
- 
 [GitHub:twiecki/covid19](https://github.com/twiecki/covid19)  
 感染状況を可視化しているJupyter Notebook
  
@@ -173,7 +190,7 @@ SIGNATE（日本）のCOVID-19に関するコンペ。フェーズ1で成果と�
 [COVID19Japan.com Data(Spredsheet)](https://docs.google.com/spreadsheets/d/1jfB4muWkzKTR0daklmf8D5F0Uf_IYAgcx_-Ij9McClQ/edit#gid=0)  
 Google スプレッドシートでオープンデータとして公開
 
-[東洋経済 csvデータ](https://toyokeizai.net/sp/visual/tko/covid19/csv/data.csv)  
+[東洋経済 csvデータ](https://github.com/kaz-ogiwara/covid19/blob/master/data/individuals.csv)  
 東洋経済が公開しているオープンデータ
 
 [Novel Corona Virus 2019 Dataset(kaggle)](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)  
@@ -220,8 +237,9 @@ SIGNATEのCOVID-19チャレンジ（フェーズ1）の成果物としてオー�
 
 ## その他
 [東京都 新型コロナウイルス対策サイトへの貢献方法を解説](https://qiita.com/FPC_COMMUNITY/items/b9cc072813dc2231b2b2)  
-GitHubへのPRの具体的な手順
+新型コロナウイルス対策サイトのGitHubリポジトリへのPRの具体的な手順
 
+## 情報をまとめたサイト
 [Open collaboration on COVID-19](https://github.blog/2020-03-23-open-collaboration-on-covid-19/)  
 GitHub上にある新型コロナ関係のプロジェクトまとめ。このサイトで紹介しているものも多く含まれている
 
