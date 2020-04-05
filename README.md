@@ -47,6 +47,8 @@ Code for KYUSHU発信。まだ準備中のもよう。東京都のGitHubリポ�
 [石川県内の最新感染動向](https://ishikawa-covid19.netlify.com/)[(GitHub:Retsuki/covid19-ishikawa)](https://github.com/Retsuki/covid19-ishikawa)  
 個人の発信。東京都のGitHubリポジトリをforkして作られている。作成経緯が[Qiitaの記事](https://qiita.com/Retsuki/items/88eded5e61af200305fb)にまとめられている
 
+[広島県内の感染動向](https://covid19-hiroshima.netlify.com)  
+個人の発信。東京都のGitHubリポジトリをforkして作られている。
 
 #### 国内全体
 [新型コロナウイルス国内感染の状況](https://toyokeizai.net/sp/visual/tko/covid19/)[(GitHub:kaz-ogiwara/covid19)](https://github.com/kaz-ogiwara/covid19)  
