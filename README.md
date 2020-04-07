@@ -24,10 +24,16 @@
 以下は、個人的に気にしている都道府県の感染動向へのリンク（その他は、上記のリンク先を参照）
 
 [愛知県内の最新感染動向](https://stopcovid19.code4.nagoya/)[(GitHub:code4nagoya/covid19)](https://github.com/code4nagoya/covid19)  
-[Code for Nagoya](https://code4.nagoya/)発信
-
 [三重県内の最新感染動向](https://covid19-mie.netlify.com/)[(GitHub:FlexiblePrintedCircuits/covid19-mie)](https://github.com/FlexiblePrintedCircuits/covid19-mie)  
-個人発信。作成経緯や技術的内容が[Qiita記事](https://qiita.com/sakuranomiyu/items/30c09efaf717b5e82973)にまとめられている
+
+
+#### 新型コロナウイルス対策サイト立ち上げのための技術的情報
+[東京都 新型コロナウイルス対策サイトへの貢献方法を解説](https://qiita.com/FPC_COMMUNITY/items/b9cc072813dc2231b2b2)  
+新型コロナウイルス対策サイトのGitHubリポジトリへのPRの具体的な手順
+
+[COVID-19-mieのためのスクレイピング＋自動更新プログラムを書いた](https://qiita.com/sakuranomiyu/items/30c09efaf717b5e82973)  
+三重の感染動向サイトを立ち上げた際の経緯や技術的内容を三重県の高専生が発信
+
 
 #### 国内全体
 [新型コロナウイルス国内感染の状況](https://toyokeizai.net/sp/visual/tko/covid19/)[(GitHub:kaz-ogiwara/covid19)](https://github.com/kaz-ogiwara/covid19)  
@@ -216,9 +222,6 @@ SIGNATEのCOVID-19チャレンジ（フェーズ1）の成果物としてオー�
 [VS COVID-19 #民間支援情報ナビ For 静岡県版](https://vs-covid19-shizuoka.netlify.com)[(GitHub:hrsano645/vs-covid19)](https://github.com/hrsano645/vs-covid19)  
 個人の発信。Code for JapanのVS COVID-19リポジトリをforkして静岡県版を作成
 
-## その他
-[東京都 新型コロナウイルス対策サイトへの貢献方法を解説](https://qiita.com/FPC_COMMUNITY/items/b9cc072813dc2231b2b2)  
-新型コロナウイルス対策サイトのGitHubリポジトリへのPRの具体的な手順
 
 ## 情報をまとめたサイト
 [Open collaboration on COVID-19](https://github.blog/2020-03-23-open-collaboration-on-covid-19/)  
