@@ -14,41 +14,20 @@
 ## 可視化情報
 ### Japan
 #### 特定地域
-[都内の最新感染動向](https://stopcovid19.metro.tokyo.lg.jp/)[(GitHub:tokyo-metropolitan-gov/covid19)](https://github.com/tokyo-metropolitan-gov/covid19)  
-東京都発信。GitHubでの開発が活発
+[東京都内の最新感染動向](https://stopcovid19.metro.tokyo.lg.jp/)[(GitHub:tokyo-metropolitan-gov/covid19)](https://github.com/tokyo-metropolitan-gov/covid19)  
+東京都発信。GitHubでOSSとして公開され、活発に開発が行われている。東京都のGitHubリポジトリをforkして、各都道府県のサイトが立ち上がっている
+
+
+[東京都のサイトから派生した各都道府県の最新感染動向](https://github.com/tokyo-metropolitan-gov/covid19/blob/development/FORKED_SITES.md)  
+東京都のリポジトリからforkされた各都道府県サイトの一覧
+
+以下は、個人的に気にしている都道府県の感染動向へのリンク（その他は、上記のリンク先を参照）
 
 [愛知県内の最新感染動向](https://stopcovid19.code4.nagoya/)[(GitHub:code4nagoya/covid19)](https://github.com/code4nagoya/covid19)  
-[Code for Nagoya](https://code4.nagoya/)発信。東京都のGitHubリポジトリをforkして作られた愛知県のサイト
-
-[北海道内の最新感染動向](https://stopcovid19.hokkaido.dev/)[(GitHub:codeforsapporo/covid19)](https://github.com/codeforsapporo/covid19)  
-[Code for Sapporo](https://www.codeforsapporo.org/)発信。東京都のGitHubリポジトリをforkして作られた北海道のサイト
-
-[神奈川県内の最新感染動向](https://www.pref.kanagawa.jp/osirase/1369/)  
-東京都のGitHubリポジトリをベースに作られた神奈川県のサイト。GitHubでの公開はしていない模様
+[Code for Nagoya](https://code4.nagoya/)発信
 
 [三重県内の最新感染動向](https://covid19-mie.netlify.com/)[(GitHub:FlexiblePrintedCircuits/covid19-mie)](https://github.com/FlexiblePrintedCircuits/covid19-mie)  
 個人発信。作成経緯や技術的内容が[Qiita記事](https://qiita.com/sakuranomiyu/items/30c09efaf717b5e82973)にまとめられている
-
-[大阪府の最新感染動向](https://covid19-osaka.info/)[(GitHub:codeforosaka/covid19)](https://github.com/codeforosaka/covid19)  
-大阪府が[Code for OSAKA](https://code4.osaka/)協力のもと立ち上げ。東京都のGitHubリポジトリをforkして作られている
-
-[長崎県内の最新感染動向](https://stopcovid19-nagasaki.netlify.com)[(GitHub:CodeForNagasaki/covid19)](https://github.com/CodeForNagasaki/covid19)  
-長崎市とCode for Nagasakiが発信。東京都のGitHubリポジトリをforkして作られている
-
-[九州の最新感染動向](https://dev-covid19-kyusyu.netlify.com)[(GitHub:Code-for-Kyushu/covid19)](https://github.com/Code-for-Kyushu/covid19)  
-Code for KYUSHU発信。まだ準備中のもよう。東京都のGitHubリポジトリをforkして作られている
-
-[埼玉県内の最新感染動向](https://saitama.stopcovid19.jp)[(GitHub:codefortoda/covid19-saitama)](https://github.com/codefortoda/covid19-saitama)  
-[Code for TODA](https://codefortoda.org)発信の非公式サイト。東京都のGitHubリポジトリをベースに作られている
-
-[福井県内の最新感染動向](https://covid19-fukui.com/)[(GitHub:nomunomu0504/covid19)](https://github.com/nomunomu0504/covid19)  
-個人の発信。東京都のGitHubリポジトリをforkして作られている
-
-[石川県内の最新感染動向](https://ishikawa-covid19.netlify.com/)[(GitHub:Retsuki/covid19-ishikawa)](https://github.com/Retsuki/covid19-ishikawa)  
-個人の発信。東京都のGitHubリポジトリをforkして作られている。作成経緯が[Qiitaの記事](https://qiita.com/Retsuki/items/88eded5e61af200305fb)にまとめられている
-
-[広島県内の感染動向](https://covid19-hiroshima.netlify.com)[(GitHub:tatsuya1970/covid19)](https://github.com/tatsuya1970/covid19)  
-個人の発信。東京都のGitHubリポジトリをforkして作られている。
 
 #### 国内全体
 [新型コロナウイルス国内感染の状況](https://toyokeizai.net/sp/visual/tko/covid19/)[(GitHub:kaz-ogiwara/covid19)](https://github.com/kaz-ogiwara/covid19)  
