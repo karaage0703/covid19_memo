@@ -34,6 +34,9 @@
 [COVID-19-mieのためのスクレイピング＋自動更新プログラムを書いた](https://qiita.com/sakuranomiyu/items/30c09efaf717b5e82973)  
 三重の感染動向サイトを立ち上げた際の経緯や技術的内容を三重県の高専生が発信
 
+[岡山県版新型コロナウイルス対策サイトを開発・運用している話](https://qiita.com/Lusaca/items/a48ee2553ffad730d171)  
+岡山の新型コロナウイルス対策サイト開発に関する技術的記事
+
 
 #### 国内全体
 [新型コロナウイルス国内感染の状況](https://toyokeizai.net/sp/visual/tko/covid19/)[(GitHub:kaz-ogiwara/covid19)](https://github.com/kaz-ogiwara/covid19)  
