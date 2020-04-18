@@ -207,6 +207,9 @@ GitHub発信。[fastpages](https://github.com/fastai/fastpages)をforkして作�
 [SIGNATE COVID-2019 Dataset(Spreadsheet)](http://bit.ly/signate_covid-19)  
 SIGNATEのCOVID-19チャレンジ（フェーズ1）の成果物としてオープンデータとして公開されたスプレッドシート
 
+[GitHub:2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)  
+ジョン・ホプキンス大学発信のオープンデータ。csv形式でGitHub上にアップ
+
 ## COVID-19に関する資料
 [COVID-19 について](http://minato.sip21c.org/COVID-19-J.pdf)  
 神戸大学の公衆衛生分野の中村先生の資料。情報量多め
