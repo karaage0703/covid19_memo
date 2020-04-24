@@ -75,6 +75,9 @@ Code for Sabae発信。感染症病ベッド情報を公開中
 [SIGNATE COVID-19 Dashboard](https://datastudio.google.com/reporting/c7db83c8-296a-4c90-990c-5468f35f9f7f/page/US3JB)  
 SIGNATEの[COVID-19チャレンジ（フェーズ1）](https://signate.jp/competitions/260)から生まれたダッシュボード
 
+[新型コロナ 県別・時系列グラフ](https://datastudio.google.com/u/0/reporting/c4e0fe88-f72e-464e-a3b8-5e4e591c238d/page/ultJB)  
+個人発信。正しく検査数、陽性者数を把握したい場合はここが良さそう
+
 ### World
 [新型コロナ感染世界マップ](https://vdata.nikkei.com/newsgraphics/coronavirus-world-map/)  
 日経新聞発信。みやすく世界の情報が可視化されている
