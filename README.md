@@ -78,6 +78,9 @@ SIGNATEの[COVID-19チャレンジ（フェーズ1）](https://signate.jp/compet
 [新型コロナ 県別・時系列グラフ](https://datastudio.google.com/u/0/reporting/c4e0fe88-f72e-464e-a3b8-5e4e591c238d/page/ultJB)  
 個人発信。正しく検査数、陽性者数を把握したい場合はここが良さそう
 
+[Rt Covid-19 Japan](https://rt-live-japan.com)  
+個人発信。都道府県ごとの実効再生産数(感染性の指標, Rt)の変化を可視化
+
 ### World
 [新型コロナ感染世界マップ](https://vdata.nikkei.com/newsgraphics/coronavirus-world-map/)  
 日経新聞発信。みやすく世界の情報が可視化されている
