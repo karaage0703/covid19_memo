@@ -37,6 +37,8 @@
 [岡山県版新型コロナウイルス対策サイトを開発・運用している話](https://qiita.com/Lusaca/items/a48ee2553ffad730d171)  
 岡山の新型コロナウイルス対策サイト開発に関する技術的記事
 
+[愛知県コロナ対策サイト(非公式)公開までの4日間](https://lab.hendigi.com/mac-predictive-transformation/)  
+愛知県の新型コロナ対策サイトの開発の経緯
 
 #### 国内全体
 [新型コロナウイルス国内感染の状況](https://toyokeizai.net/sp/visual/tko/covid19/)[(GitHub:kaz-ogiwara/covid19)](https://github.com/kaz-ogiwara/covid19)  
