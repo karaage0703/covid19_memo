@@ -218,12 +218,15 @@ SIGNATEのCOVID-19チャレンジ（フェーズ1）の成果物としてオー�
 [GitHub:2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)  
 ジョン・ホプキンス大学発信のオープンデータ。csv形式でGitHub上にアップ
 
-## COVID-19に関する資料
+## COVID-19に関する資料・情報
 [COVID-19 について](http://minato.sip21c.org/COVID-19-J.pdf)  
 神戸大学の公衆衛生分野の中村先生の資料。情報量多め
 
 [COVID-19への対策の概念](https://www.jsph.jp/covid/files/gainen.pdf)  
 東北大学大学院医学系研究科の押谷先生の資料。シンプルで分かりやすい資料
+
+[新型コロナウイルス感染を理解するためのやさしい生物学（YouTube動画）](https://www.youtube.com/playlist?list=PLhZK0Os7ExEEP3wydYgVJnYw3eD3uQvv4)  
+YouTubeでの新型コロナウイルスに対する解説動画のプレイリスト
 
 ## COVID-19対策として提供されている優良サービスまとめ
 [COVID-19に負けない! 配信、支援サービスリスト](https://tomo-makes.github.io/overcome-covid-19-jp/)
