@@ -228,6 +228,9 @@ SIGNATEのCOVID-19チャレンジ（フェーズ1）の成果物としてオー�
 [新型コロナウイルス感染を理解するためのやさしい生物学（YouTube動画）](https://www.youtube.com/playlist?list=PLhZK0Os7ExEEP3wydYgVJnYw3eD3uQvv4)  
 YouTubeでの新型コロナウイルスに対する解説動画のプレイリスト
 
+[新型コロナウイルスのNow!!](https://www.covid19-taskforce.jp/wp-content/uploads/2020/07/coronanews0726.pdf)  
+公立陶生病院 感染症内科 武藤 義和先生の資料。2020/07/26時点での最新情報のまとめ
+
 ## COVID-19対策として提供されている優良サービスまとめ
 [COVID-19に負けない! 配信、支援サービスリスト](https://tomo-makes.github.io/overcome-covid-19-jp/)
 [(GitHub:tomo-makes/overcome-covid-19-jp)](https://github.com/tomo-makes/overcome-covid-19-jp)  
