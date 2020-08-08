@@ -220,7 +220,7 @@ SIGNATEのCOVID-19チャレンジ（フェーズ1）の成果物としてオー�
 
 ## COVID-19に関する資料・情報
 [COVID-19 について](http://minato.sip21c.org/COVID-19-J.pdf)  
-神戸大学の公衆衛生分野の中村先生の資料。情報量多め
+神戸大学の中澤港先生の資料。情報量多め
 
 [COVID-19への対策の概念](https://www.jsph.jp/covid/files/gainen.pdf)  
 東北大学大学院医学系研究科の押谷先生の資料。シンプルで分かりやすい資料
