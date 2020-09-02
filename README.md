@@ -40,6 +40,9 @@
 [愛知県コロナ対策サイト(非公式)公開までの4日間](https://lab.hendigi.com/mac-predictive-transformation/)  
 愛知県の新型コロナ対策サイトの開発の経緯
 
+[大学生が山口県版新型コロナウイルス対策サイトの立ち上げ, 運用, 県との交渉をしてみた](https://qiita.com/nsd24/items/39004044a04de3eda1f7)  
+山口県の新型コロナウイルス対策サイト開発に関しての記事
+
 #### 国内全体
 [新型コロナウイルス国内感染の状況](https://toyokeizai.net/sp/visual/tko/covid19/)[(GitHub:kaz-ogiwara/covid19)](https://github.com/kaz-ogiwara/covid19)  
 東洋経済発信。みやすく国内のデータが一目で把握できる
