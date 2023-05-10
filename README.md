@@ -173,6 +173,11 @@ SIGNATEのCOVID-19チャレンジ（フェーズ1）の成果物として公開�
 [personal-hm2/coronavirus_model](https://github.com/personal-hm2/coronavirus_model)  
 PFNの丸山さんが、新型コロナウイルスの流行予測のモデル化をしたJupyter Notebook。
 
+
+[ryomakom/exdeaths](https://github.com/ryomakom/exdeaths)  
+[コロナ下の３年間で死者はどれだけ増えたのか](https://ryomakom.github.io/exdeaths/)  
+朝日新聞デジタル企画報道部・小宮山記者の分析
+
 ## データ分析のコンペティション
 [COVID19 Global Forecasting (Week 1)](https://www.kaggle.com/c/covid19-global-forecasting-week-1)  
 感染拡大を予想するKaggleのコンペ（世界版）
